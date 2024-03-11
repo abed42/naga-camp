@@ -1,0 +1,8 @@
+Model Information:
+* title:	Muay Thai Fighter
+* source:	https://sketchfab.com/3d-models/muay-thai-fighter-38c56ce4c180478bb06c6aa6ee4aaa06
+* author:	Zhang Shangbin (https://sketchfab.com/zhangshangbin1314159)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
